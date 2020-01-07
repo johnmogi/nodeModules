@@ -1,0 +1,11 @@
+{
+  "name": "math-operations",
+  "version": "1.0.0",
+  "description": "this function runs two primes number array",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Mogi",
+  "license": "ISC"
+}
